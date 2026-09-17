@@ -1,2 +1,2 @@
-# bot
-.py
+# discord bot
+its in python
